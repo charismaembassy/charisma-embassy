@@ -65,11 +65,11 @@ const BigHero: React.FC = () => {
             className="text-sm sm:text-base md:text-lg max-w-2xl mx-auto leading-relaxed"
             variants={fadeUpVariants}
           >
-            At City of God Covenant Church, we’re more than a Sunday service —
-            we’re a family. We gather to encounter God, grow together, and
-            impact our city with His love. Whether you’re new to church,
-            rediscovering your faith, or looking for a place to belong, you’ll
-            find a warm, welcoming community here.
+            At City of God Covenant Church, we&apos;re more than a Sunday
+            service — we&apos;re a family. We gather to encounter God, grow
+            together, and impact our city with His love. Whether you&apos;re new
+            to church, rediscovering your faith, or looking for a place to
+            belong, you&apos;ll find a warm, welcoming community here.
           </motion.p>
 
           {/* CTA Buttons */}

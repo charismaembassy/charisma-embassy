@@ -29,12 +29,12 @@ const AboutChurch = () => {
         <div className="flex flex-col gap-5 lg:text-lg text-gray-600 lg:leading-8">
           <p>
             We hold firmly to the Word of God as the ultimate standard for
-            doctrine, and we believe that the greatest demonstration of God's
-            love is found in the redemptive work of Christ. Through His grace,
-            we are blessed and righteous in His sight.
+            doctrine, and we believe that the greatest demonstration of
+            God&apos;s love is found in the redemptive work of Christ. Through
+            His grace, we are blessed and righteous in His sight.
           </p>
           <p>
-            Under Apostle Emmanuel Iren's leadership, CCI has grown from a
+            Under Apostle Emmanuel Iren&apos;s leadership, CCI has grown from a
             campus fellowship into a global ministry with over 15,000 members
             and more than 30 campuses across Nigeria, Europe, Canada, and the
             USA. We are the hands and feet of Christ, spreading the gospel to
@@ -44,7 +44,10 @@ const AboutChurch = () => {
           </p>
         </div>
       </div>
-      <div className="bg-black text-white flex items-center justify-center min-h-[60vh]" id="mission">
+      <div
+        className="bg-black text-white flex items-center justify-center min-h-[60vh]"
+        id="mission"
+      >
         <div className="width">
           <p className="text-center text-2xl md:text-4xl font-extrabold mb-5 text-white">
             COGCC
@@ -67,8 +70,9 @@ const AboutChurch = () => {
               </p>
               <p className="text-gray-800 font-medium text-sm xl:text-lg">
                 Your life should reflect the death and resurrection of Jesus
-                Christ every single day. It’s not enough to simply know that
-                Jesus is Lord—you must live out that truth in everything you do.
+                Christ every single day. It&apos;s not enough to simply know
+                that Jesus is Lord—you must live out that truth in everything
+                you do.
               </p>
             </div>
             <div className="flex flex-col gap-2 bg-white rounded-xl px-6 py-10">

@@ -4,13 +4,6 @@ import Lead from "@/components/Lead";
 import React from "react";
 import heroImage from "@/public/sophie-spree-9zJcrli2WCU-unsplash.jpg";
 
-type BlurImageProps = {
-  src: string;
-  alt: string;
-  width: number;
-  height: number;
-};
-
 const about = async () => {
   return (
     <div>
