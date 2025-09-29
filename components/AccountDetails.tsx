@@ -1,7 +1,6 @@
 "use client";
 import { useCopyToClipboard } from "@/_hooks";
 import React from "react";
-import { IoCopy } from "react-icons/io5";
 import { LuCopy } from "react-icons/lu";
 
 interface accountDetailsDataType {

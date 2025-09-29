@@ -1,4 +1,3 @@
-import Link from "next/link";
 import React from "react";
 import programs from "@/public/efrain-maldonado-knHd12cdRK4-unsplash.jpg";
 import programs1 from "@/public/pastor2.jpg";
